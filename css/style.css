@@ -1,0 +1,41 @@
+body {
+    font-family: 20px Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #198239
+}
+
+.navbar .collapse li > a:hover {
+    color: rgba(255, 255, 255, 0.589)!important;
+}
+
+.quem-somos {
+    /*background-color: #3e6126ce;*/
+    color: black;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#quem-somos #primeiro {
+    margin-bottom: 30px;
+}
+
+#quem-somos #segundo {
+    margin-top: 30px;
+}
+
+.parceiros {
+    background-color: #198239;
+}
+
+.bg-footer {
+    background-color: black;
+}
+.bg-footer p, a {
+    text-decoration: none;
+    color: white;
+}
